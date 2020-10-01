@@ -14,10 +14,10 @@ Used MNIST handwritten data to train a neural network to predict digits.
    2. Apply adaptive threshold
    3. Warped the image
    
-2. Used contours to find the grid
+2. Used contours to detect the grid.
 3. Used window sliding technique to pick the image in each block. 
 4. Used the trained model to predict the digit and stored it in an array.
-5. Solved the sudoku using CP techniques.
+5. Solved the sudoku using backtracing.
 
 
 ---
